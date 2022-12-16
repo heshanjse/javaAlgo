@@ -1,0 +1,63 @@
+
+
+Q1 : Write a method that uses a for loop to display numbers in descending order
+in the step of 5 starting from 100. Call your method from the main method.
+
+output : 100 95 ... 5 0
+
+Q2 : Write a method that uses a while loop. This method would replace every
+ vowel in the String with X. Call your method from the main method.
+
+output : Java is Fun
+         should become
+         JXvX Xs FXn
+
+Q3 : Write a method that uses a do while loop. This method would reverse a
+ String. Call your method from the main method.
+
+output : Java
+         should become
+         avaJ
+
+Q4 : Write a method that checks if a String is a Palindrome. Call your method from the main method.
+
+output : ABCBA
+         is a Palindrome, where as
+         Java
+         is not a Palidrome.
+
+Q5 : Write a method that prints the multiplication table of the user provided number. Call your method from the main method.
+
+output : 9
+         should become, the program prints
+         				9
+         				18
+         				27
+         				36
+         				...
+         				...
+         				81
+         				90
+
+Q6 : Write a method that checks if a number is a Prime number. Call your method from the main method.
+
+output :
+
+Q7 : Write a method that accepts two numbers are returns the maximum of Two. Call your method from the main method.
+
+output :
+
+Q8 : Write a method that accepts two numbers and returns the minimum of Two. Call your method from the main method.
+
+output :
+
+Q9 : Write a method that accepts two numbers and returns the average of Two. Call your method from the main method.
+
+output :
+
+Q10 : Write a method that calls all the above methods. Log the time at the begining of this method and at the end. Print how many milliseconds elapsed in executing all the above methods Call your method from the main method.
+
+output :
+
+http://sansatechnology.com/tutorials/java/ten-interview-loop-questions.php
+
