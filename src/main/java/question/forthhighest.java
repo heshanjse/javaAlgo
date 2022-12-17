@@ -1,4 +1,4 @@
-// Input- {1, 5, 2, 3, 100, 7, 9, 8}
+package question;// Input- {1, 5, 2, 3, 100, 7, 9, 8}
 // Output - 7
 
 // Input - {15, 33, 17, 19, 21, 5}
@@ -18,7 +18,6 @@ public class forthhighest {
             }
         }
         System.out.println(a[a.length - 4]);
-
     }
 
 }
